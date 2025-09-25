@@ -1,53 +1,72 @@
-# 👨‍💻 Carlos Abreu  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6600ff"/>
 
-**`Desenvolvedor Back-End`**  
+<br>
 
-Me chamo Carlos, tenho 18 anos e sou de São Paulo.
-Atualmente, estou desenvolvendo habilidades em **programação (Python)**, **automações** e **inteligência artificial**, criando projetos pessoais que envolvem **assistentes virtuais** e **gestão de informações**.  
+<div align="center">
+  
+  <b>`Back-End Developer`</b>
+</div>
 
-Tenho conhecimento prático em:  
-- 🌐 **HTML** e configuração de servidores.  
-- 🐍 **Python** (estruturas de dados, funções e automações).  
-- 🤖 Projetos explorando **IA e LLMs**.  
+<br>
 
-📚 Estudo **inglês na Wizard**, aprimorando minha comunicação em ambientes bilíngues e me preparando para atuar em contextos globais.  
+<div align="center">
+  <img src="https://img.shields.io/badge/CARLOS_-cyan" />
+</div>
+<br>
 
----
 
-## 🎯 Objetivos
-Busco uma oportunidade **júnior** para aplicar minhas competências, aprender com profissionais experientes e crescer dentro da área de tecnologia.  
 
----
+My name is Carlos, I’m 18 years old from São Paulo. I am currently developing skills in **Python programming**, **automation**, and **artificial intelligence**, working on personal projects that focus on **virtual assistants** and **information management**.
 
-## 🤖 Tecnologias & Ferramentas  
+<br/>
+
+## 🧑‍💻Skills & Experience:
+- 🌐 **HTML** and server configuration  
+- 🐍 **Python** (data structures, functions, and automation)  
+- 🤖 **AI and LLM projects**
+
+<br/>
+
+## 🏫Education:
+📚 Studying **English at Wizard**, enhancing communication skills for bilingual and international environments.
+
+<br/>
+
+
+## 💻Technologies and tools  
 
 <div style="display: flex; gap: 15px;">
-  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-</div>  
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 
----
+  <br/>
+  <br/>
+</div> 
 
-## 📊 Estatísticas do GitHub  
-<a href="https://github.com/Carlos-ozz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlos-ozz&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
----
+## 📊GitHub Stats
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Carlos-ozz&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
 
-## 📬 Contato  
+  <br>
+  <br>
+
+
+</div>
+
+# 📫Contacts
 <a href="https://github.com/Carlos-ozz?tab=followers">
     <img 
-    alt="seguidores" 
-    title="Me siga no GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/followers/Carlos-ozz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
+    alt="followers" 
+    title="Follow me on GitHub" 
+    src="https://custom-icon-badges.demolab.com/github/followers/Carlos-ozz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
     />  
 
 <a href="mailto:carlosgabreu78@gmail.com">
   <img 
   alt="Email" 
-  title="Me envie um e-mail" 
+  title="Send me an email" 
   src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
@@ -55,11 +74,10 @@ Busco uma oportunidade **júnior** para aplicar minhas competências, aprender c
 <a href="https://wa.me/5511913518936?text=Olá%20Carlos!%20Entrei%20em%20contato%20pelo%20GitHub">
   <img 
   alt="WhatsApp"
-  title="Me envie uma mensagem no WhatsApp"
+  title="Send me a message on WhatsApp"
   src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+<br>
+<br>
 
-
----
-
-💡 *Sempre em busca de aprendizado contínuo e de transformar ideias em soluções reais.*  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6600ff&height=100&section=footer"/>
